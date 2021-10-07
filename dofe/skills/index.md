@@ -2,16 +2,22 @@
 title: DofE Skills -  Blender Gallery
 ---
 
+Some notes for those not familiar with the software:
+
+Blender is a open source 3D modeling, rendering and
+
+Blender has two rendering engines: EEVEE - a fast realtime renderer - and Cycles - a physically accurate raytracing renderer
+
+Animation Nodes is an addon for blender allowing for programatic manipulation of objects in a scene, via a node based intereface.
 
 ## Week 1 - Procedural Landscape Generation (Cycles)
 
-The first image is my rendition of [this](https://www.youtube.com/watch?v=yrMee2gcS20) tutorial. I wasnsatisfied with my texturing, so I adapted the same technique with my own shader to create the low-poly Mars-like render on the right. Complete with martian birds! I've done some similar tests using animation nodes to warp amesh, which I think would be more efficient, however, it's been hard to getthe same easing in the height.
-
+The first image is my rendition of [this](https://www.youtube.com/watch?v=yrMee2gcS20) tutorial. I wasn't satisfied with my texturing, so I adapted the same technique with my own shader to create the low-poly Mars-like render on the right. Complete with martian birds! I've done some similar tests using Animation Nodes to warp a mesh, which I think would be more efficient, however, it's been hard to get the same easing in the height.
 
 ![](week1b.png)
-![](week1d.png) 
-![](week1a.jpeg) 
-![](week1c.jpeg) 
+![](week1d.png)
+![](week1a.jpeg)
+![](week1c.jpeg)
 
 ## Week 2 - Seamless particle loop with Animation Nodes (EEVEE)
 
@@ -27,17 +33,17 @@ The first image is my rendition of [this](https://www.youtube.com/watch?v=yrMee2
 This was my attempt to create a seamless particle loop using the mighty
 Animation Nodes (best plugin!). No matter what I did I was unable to avoid a
 small bit of stuttering at the looping point, but overall I'm pleased with the
-result. 
+result.
 
 ## Week 3 - The DMate Device (EEVEE) A modeling and materials study
-based on the aesthetic of camera lenses and watches. ![](week3.jpeg) 
 
-## Week 4 -
-Procedural Stary Sky Wallpaper (EEVEE) Procedural textures are super cool. A few
-minutes building a shader and BAM, infinite variation, infinite tiling, and no
-repetition. To challenge my skills I made this stary sky wallpaper.
+based on the aesthetic of camera lenses and watches. ![](week3.jpeg)
 
-![](week4.png) 
+## Week 4 -Procedural Stary Sky Wallpaper (EEVEE)
+
+Procedural textures are super cool. A few minutes building a shader and BAM, infinite variation, infinite tiling, and no repetition. To challenge my skills I made this stary sky wallpaper.
+
+![](week4.png)
 
 ## Week 5 - Sparks Animation (Cycles)
 
@@ -66,23 +72,27 @@ on [this](https://www.youtube.com/watch?v=MGRhJf0xdE8) tutorial by BlenderGuru.
 ></iframe>
 
 This is probably by best render yet, and a fun one too. Based off of [this
-tutorial](https://www.youtube.com/watch?v=35bbyAJodEQ). 
+tutorial](https://www.youtube.com/watch?v=35bbyAJodEQ).
 
-## Week 7 - Assorted Jars (Cycles) 
+## Week 7 - Assorted Jars (Cycles)
 
-A few jars I had fun creating. Based off of [this tutorial](https://www.youtube.com/watch?v=DGKTk5wPIZM). 
+A few jars I had fun creating. Based off of [this tutorial](https://www.youtube.com/watch?v=DGKTk5wPIZM).
 
 ![](week7a.png)
-![](week7b.png) 
-![](week7c.png) 
+![](week7b.png)
+![](week7c.png)
 
-## Week 8 - Clay Shader 
+## Week 8 - Clay Shader
 
-A clay shader I tested making, complete with procedural fingerprints. Based off of [this](https://www.youtube.com/watch?v=wTu3Xssw67Q). 
+A clay shader I tested making, complete with procedural fingerprints. Based off of [this](https://www.youtube.com/watch?v=wTu3Xssw67Q).
 
-![](week8.png) 
+![](week8.png)
 
-## Week 9 - Low Poly Frog (Cycles) Pond. ![](week9.png) ## Week 10 - Seamless Loop (EEVEE)
+## Week 9 - Low Poly Frog (Cycles) Pond.
+
+![](week9.png)
+
+## Week 10 - Seamless Loop (EEVEE)
 
 <iframe
   width="560"
@@ -94,6 +104,7 @@ A clay shader I tested making, complete with procedural fingerprints. Based off 
 ></iframe>
 
 ## Week 11 - Low Mountain (Cycles) ![](week11.png) I've been following the work
+
 of [Roman Klčo](https://romanklco.com/) on his YouTube channel Polygon Runway
 for a while now, and I wanted to have a go at emulating his style. This comes
 nowhere near to the level of detail he puts in, but I'm happy with the final
@@ -145,4 +156,6 @@ Grease Pencil Tests
   allowfullscreen
 ></iframe>
 
-## Week 17 - Cube Field (Cycles) ![](week17.png)
+## Week 17 - Cube Field (Cycles)
+
+![](week17.png)
