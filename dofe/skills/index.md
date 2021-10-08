@@ -2,13 +2,9 @@
 title: DofE Skills -  Blender Gallery
 ---
 
-Some notes for those not familiar with the software:
+This work was done in 2019/2020 for my DofE Gold Award Skills Section. I've been using blender for a while, but wanted to really dive into the software. I commited to spending a few hours each week or two creating a new render, completing a tutorial or exploring a new part of the software.
 
-Blender is a open source 3D modeling, rendering and
-
-Blender has two rendering engines: EEVEE - a fast realtime renderer - and Cycles - a physically accurate raytracing renderer
-
-Animation Nodes is an addon for blender allowing for programatic manipulation of objects in a scene, via a node based intereface.
+This pushed my skills massively interms of overall familiarity - particularly I made lots of progress with the "Animation Nodes" addon, which allows for programatic control of animation and objects in the scene.
 
 ## Week 1 - Procedural Landscape Generation (Cycles)
 
