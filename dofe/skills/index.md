@@ -2,9 +2,9 @@
 title: DofE Skills -  Blender Gallery
 ---
 
-This work was done in 2019/2020 for my DofE Gold Award Skills Section. I've been using blender for a while, but wanted to really dive into the software. I commited to spending a few hours each week or two creating a new render, completing a tutorial or exploring a new part of the software.
+This work was done in 2019/2020 for my DofE Gold Award Skills Section. I've been using blender for a while, but wanted to really dive into the software. I commited to spending a few hours every other week creating a new render, completing a tutorial or exploring a new part of the software.
 
-This pushed my skills massively interms of overall familiarity - particularly I made lots of progress with the "Animation Nodes" addon, which allows for programatic control of animation and objects in the scene.
+This pushed my skills massively in terms of overall familiarity - particularly I made lots of progress with the "Animation Nodes" addon, which allows for programatic control of animation and objects in the scene.
 
 ## Week 1 - Procedural Landscape Generation (Cycles)
 
