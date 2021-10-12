@@ -130,8 +130,9 @@ Week 14 - Toroidal Annihilation
 
 https://www.youtube.com/watch?v=9H9dEC7Tguk
 
-I'm taking a break from Halley VI, and doing a smaller test. ## Week 15 - Some
-Grease Pencil Tests
+I'm taking a break from Halley VI, and doing a smaller test.
+
+## Week 15 - Some Grease Pencil Tests
 
 <iframe
   width="560"
@@ -142,8 +143,6 @@ Grease Pencil Tests
   allowfullscreen
 ></iframe>
 
-https://www.youtube.com/watch?v=QMHGSHN71Z8
-
 <iframe
   width="560"
   height="315"
@@ -152,6 +151,8 @@ https://www.youtube.com/watch?v=QMHGSHN71Z8
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
+
+https://www.youtube.com/watch?v=QMHGSHN71Z8
 
 https://www.youtube.com/watch?v=MWLH2A2KOYs
 
