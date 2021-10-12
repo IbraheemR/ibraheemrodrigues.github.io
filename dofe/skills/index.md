@@ -107,9 +107,11 @@ A clay shader I tested making, complete with procedural fingerprints. Based off 
 
 https://www.youtube.com/watch?v=i0xbmFMcAzU
 
-## Week 11 - Low Mountain (Cycles) ![](week11.png) I've been following the work
+## Week 11 - Low Mountain (Cycles)
 
-of [Roman Klčo](https://romanklco.com/) on his YouTube channel Polygon Runway
+![](week11.png)
+
+I've been following the workof [Roman Klčo](https://romanklco.com/) on his YouTube channel Polygon Runway
 for a while now, and I wanted to have a go at emulating his style. This comes
 nowhere near to the level of detail he puts in, but I'm happy with the final
 result.
