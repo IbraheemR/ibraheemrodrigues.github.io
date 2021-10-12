@@ -26,6 +26,8 @@ The first image is my rendition of [this](https://www.youtube.com/watch?v=yrMee2
   allowfullscreen
 ></iframe>
 
+https://www.youtube.com/embed/BoYO8eSi9zY
+
 This was my attempt to create a seamless particle loop using the mighty
 Animation Nodes (best plugin!). No matter what I did I was unable to avoid a
 small bit of stuttering at the looping point, but overall I'm pleased with the
@@ -52,6 +54,8 @@ Procedural textures are super cool. A few minutes building a shader and BAM, inf
   allowfullscreen
 ></iframe>
 
+https://www.youtube.com/embed/nHKcTwoF_Hc
+
 I've been finding I'm overestimating my abilities and getting caught up, so for
 the next few weeks I'm going to stick to following tutorials. This one was based
 on [this](https://www.youtube.com/watch?v=MGRhJf0xdE8) tutorial by BlenderGuru.
@@ -66,6 +70,8 @@ on [this](https://www.youtube.com/watch?v=MGRhJf0xdE8) tutorial by BlenderGuru.
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
+
+https://www.youtube.com/embed/NgksT1Nj0ms
 
 This is probably by best render yet, and a fun one too. Based off of [this
 tutorial](https://www.youtube.com/watch?v=35bbyAJodEQ).
@@ -99,6 +105,8 @@ A clay shader I tested making, complete with procedural fingerprints. Based off 
   allowfullscreen
 ></iframe>
 
+https://www.youtube.com/embed/i0xbmFMcAzU
+
 ## Week 11 - Low Mountain (Cycles) ![](week11.png) I've been following the work
 
 of [Roman Klčo](https://romanklco.com/) on his YouTube channel Polygon Runway
@@ -120,6 +128,8 @@ Week 14 - Toroidal Annihilation
   allowfullscreen
 ></iframe>
 
+https://www.youtube.com/embed/9H9dEC7Tguk
+
 I'm taking a break from Halley VI, and doing a smaller test. ## Week 15 - Some
 Grease Pencil Tests
 
@@ -132,6 +142,8 @@ Grease Pencil Tests
   allowfullscreen
 ></iframe>
 
+https://www.youtube.com/embed/QMHGSHN71Z8
+
 <iframe
   width="560"
   height="315"
@@ -140,6 +152,8 @@ Grease Pencil Tests
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
+
+https://www.youtube.com/embed/MWLH2A2KOYs
 
 ## Week 16 - Crystal
 
@@ -151,6 +165,8 @@ Grease Pencil Tests
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen
 ></iframe>
+
+https://www.youtube.com/embed/q2NIgJqzots
 
 ## Week 17 - Cube Field (Cycles)
 
