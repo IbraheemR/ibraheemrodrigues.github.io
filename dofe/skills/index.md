@@ -112,12 +112,17 @@ https://www.youtube.com/watch?v=i0xbmFMcAzU
 of [Roman Klčo](https://romanklco.com/) on his YouTube channel Polygon Runway
 for a while now, and I wanted to have a go at emulating his style. This comes
 nowhere near to the level of detail he puts in, but I'm happy with the final
-result. ## Week 12 & 13 - Halley VI Modeling (WIP) I've embarked on a project to
-model the [Halley VI
-Antarctic](https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/halley/)
-research station in Blender. This will likely take me a few weeks, so here is a
-WIP screenshot for the last two weeks showing my progress. ![](week12.jpeg) ##
-Week 14 - Toroidal Annihilation
+result.
+
+## Week 12 & 13 - Halley VI Modeling (WIP)
+
+I've embarked on a project to model the [Halley VI Antarctic](https://www.bas.ac.uk/polar-operations/sites-and-facilities/facility/halley/) research station in Blender. This will likely take me a few weeks, so here is a WIP screenshot for the last two weeks showing my progress.
+
+![](week12.jpeg)
+
+## Week 14 - Toroidal Annihilation
+
+I'm taking a break from Halley VI, and doing a smaller test.
 
 <iframe
   width="560"
@@ -129,8 +134,6 @@ Week 14 - Toroidal Annihilation
 ></iframe>
 
 https://www.youtube.com/watch?v=9H9dEC7Tguk
-
-I'm taking a break from Halley VI, and doing a smaller test.
 
 ## Week 15 - Some Grease Pencil Tests
 
