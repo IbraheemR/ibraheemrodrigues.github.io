@@ -10,5 +10,8 @@
   url: https://www.youtube.com/channel/UCKe4t2irPeZfM4w_Hf7X1NA
   sad: yes
 
+- name: labnotes
+  url: /labnotes
+
 - name: more
   url: "#more"
